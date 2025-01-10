@@ -40,13 +40,21 @@ This project is ideal for learning about Kotlin, Room Database, and implementing
 
 ## Screenshots
 
-Include screenshots of the app here (e.g., Home Screen, Add Wish Screen, Wishlist View, Swipe-to-Delete in action).
 
-![image_alt](https://github.com/hemxshah/wishlist_app_kotlin_room_database/blob/c67a4697a972919dd2a8e82754aeb076f718c7b3/Screenshots/wPicture1.png)
-![image_alt](https://github.com/hemxshah/wishlist_app_kotlin_room_database/blob/c67a4697a972919dd2a8e82754aeb076f718c7b3/Screenshots/wPicture2.png)
-![image_alt](https://github.com/hemxshah/wishlist_app_kotlin_room_database/blob/c67a4697a972919dd2a8e82754aeb076f718c7b3/Screenshots/wPicture3.png)
-![image_alt](https://github.com/hemxshah/wishlist_app_kotlin_room_database/blob/c67a4697a972919dd2a8e82754aeb076f718c7b3/Screenshots/wPicture4.png)
-![image_alt](https://github.com/hemxshah/wishlist_app_kotlin_room_database/blob/c67a4697a972919dd2a8e82754aeb076f718c7b3/Screenshots/wPicture5.png)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/hemxshah/wishlist_app_kotlin_room_database/blob/c67a4697a972919dd2a8e82754aeb076f718c7b3/Screenshots/wPicture1.png" alt="image_alt" width="198" height="418" />
+
+<img src="https://github.com/hemxshah/wishlist_app_kotlin_room_database/blob/c67a4697a972919dd2a8e82754aeb076f718c7b3/Screenshots/wPicture2.png" alt="image_alt" width="198" height="418" />
+
+<img src="https://github.com/hemxshah/wishlist_app_kotlin_room_database/blob/c67a4697a972919dd2a8e82754aeb076f718c7b3/Screenshots/wPicture3.png" alt="image_alt" width="198" height="418" />
+
+<img src="https://github.com/hemxshah/wishlist_app_kotlin_room_database/blob/c67a4697a972919dd2a8e82754aeb076f718c7b3/Screenshots/wPicture4.png" alt="image_alt" width="198" height="418" />
+
+<img src="https://github.com/hemxshah/wishlist_app_kotlin_room_database/blob/c67a4697a972919dd2a8e82754aeb076f718c7b3/Screenshots/wPicture5.png" alt="image_alt" width="198" height="418" />
+</div>
+
+
+
 
 ---
 
